@@ -1,8 +1,8 @@
 name: "rcorty.github.io"
-title: "Rheum with a View"
-description: |
-  Rheum with a View
+title: "Rob's Blog"
+description: "Rob's Blog"
 output_dir: "docs"
+base_url: https://rcorty.github.io
 navbar:
   right:
     - text: "Home"
