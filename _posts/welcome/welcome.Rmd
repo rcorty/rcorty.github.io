@@ -1,0 +1,26 @@
+---
+title: "Welcome to Rheum with a View"
+description: |
+  Welcome to our new blog, Rheum with a View. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Robert Corty
+    url: https://rcorty.github.io
+    affiliation: VUMC
+    affiliation_url: https://www.vumc.org/main/home
+date: 04-30-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
