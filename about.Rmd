@@ -6,8 +6,8 @@ title: "About Me"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-I'm a first year resident (intern) at Vanderbilt University Medical Center.
+I'm a second year resident at Vanderbilt University Medical Center.
 
-I'm in the Harrison Society for medical research with a focus on rheumatology.
+I'm in the Harrison Society for medical research with a focus on rheumatology and auto-immunity.
 
-I love spending time with my partner (@maithripriya) and jogging.
+For fun, I like to spend time with my partner (@maithripriya) and go jogging.

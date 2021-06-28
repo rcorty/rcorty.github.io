@@ -4,15 +4,29 @@
       "path": "about.html",
       "title": "About Me",
       "author": [],
-      "contents": "\nI’m a first year resident (intern) at Vanderbilt University Medical Center.\nI’m in the Harrison Society for medical research with a focus on rheumatology.\nI love spending time with my partner (@maithripriya) and jogging.\n\n\n\n",
-      "last_modified": "2021-05-03T08:49:20-05:00"
+      "contents": "\nI’m a second year resident at Vanderbilt University Medical Center.\nI’m in the Harrison Society for medical research with a focus on rheumatology and auto-immunity.\nFor fun, I like to spend time with my partner (@maithripriya) and go jogging.\n\n\n\n",
+      "last_modified": "2021-06-28T14:30:41-05:00"
     },
     {
       "path": "index.html",
       "title": "Rob's Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-03T08:49:20-05:00"
+      "last_modified": "2021-06-28T14:30:42-05:00"
+    },
+    {
+      "path": "test.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2021-06-28T14:30:43-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
