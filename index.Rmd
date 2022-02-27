@@ -1,5 +1,5 @@
 ---
-title: "Robert Corty"
+title: "Robert W. Corty"
 image: 'images/housestaff-headshot-cropped.png'
 links:
   - label: github
@@ -9,7 +9,9 @@ links:
 output:
   postcards::solana
 ---
- 
+
+## Bio
+
 I'm an internal medicine resident at [VUMC](https://www.vumc.org).
 I will be started as a fellow in the division of rheumatology in July 2022.
 Generally, I'm interested in learning about the immune system for the benefit of my patients (and others).
