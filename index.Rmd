@@ -1,6 +1,6 @@
 ---
 title: "Robert W. Corty"
-image: 'pdfs/housestaff-headshot-cropped.png'
+image: 'images/housestaff-headshot-cropped.png'
 links:
   - label: github
     url: "https://github.com/rcorty"
@@ -25,7 +25,9 @@ One approach that has captured my imagination recently is 'natural experiments'.
 
 ## Projects
 
-[Antibacterial Use Is Associated with an Increased Risk of Hematologic and Gastrointestinal Adverse Events in Patients Treated with Gemcitabine for Stage IV Pancreatic Cancer](pdfs/gemcitabine.pdf)
+Antibacterial Use Is Associated with an Increased Risk of Hematologic and Gastrointestinal Adverse Events in Patients Treated with Gemcitabine for Stage IV Pancreatic Cancer
+[repo](https://github.com/rcorty/gemcitabine)
+[paper](pdfs/gemcitabine.pdf)
 
 R packages
 
