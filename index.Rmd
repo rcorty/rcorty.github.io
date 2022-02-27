@@ -13,11 +13,14 @@ output:
 ## Bio
 
 I'm an internal medicine resident at [VUMC](https://www.vumc.org).
-I will be started as a fellow in the division of rheumatology in July 2022.
-Generally, I'm interested in learning about the immune system for the benefit of my patients (and others).
-One approach that has captured my imagination recently is 'natural experiments'.
+I will be started as a fellow in the [division of rheumatology](https://medicine.vumc.org/rheumatology-and-immunology) in July 2022.
+Generally, I'm interested in learning about normal function and diseases of immune system for the benefit of my patients (and others).
+I believe detailed study of the adaptive immune system's receptor repertoire, without losing sight of germ line genetics and environmental exposures, will provide rewarding insights.
+I've also recently become interested in identifying and analyzing natural experiments.
 
 ## Education
+
+**VUMC** | internal medicine residency | 2021 - 2022
 
 **UNC at Chapel Hill** | MD and PhD | 2011 - 2020
 
@@ -25,12 +28,42 @@ One approach that has captured my imagination recently is 'natural experiments'.
 
 ## Projects
 
+<img src="images/wrench2.png" alt="wrench" height="20"/>
+familytreemakeR
+[repo](https://github.com/rcorty/familytreemakeR)
+
 Antibacterial Use Is Associated with an Increased Risk of Hematologic and Gastrointestinal Adverse Events in Patients Treated with Gemcitabine for Stage IV Pancreatic Cancer
 [repo](https://github.com/rcorty/gemcitabine)
 [paper](pdfs/gemcitabine.pdf)
 
-R packages
+Improving Hypertension Management with Blood Pressure Rechecks
+[presentation](pdfs/Corty_QI_presentation.pdf)
 
-talks
+<img src="images/wrench2.png" alt="wrench" height="20"/>
+LookAroundYou
+[app](https://rcorty.shinyapps.io/LookAroundYou/)
+[repo](https://github.com/rcorty/LookAroundYou)
 
-dissertation
+<img src="images/wrench2.png" alt="wrench" height="20"/>
+Combinatorial Group Testing Sims
+[app](https://rcorty.shinyapps.io/combinatorial_group_testing/)
+repo currently private due to experimental features
+
+Identification of Candidate Risk Factor Genes for Human Idelalisib Toxicity Using a Collaborative Cross Approach
+[pdf](pdfs/idelalisib.pdf)
+
+dissertation: Variance Heterogeneity in Genetic Mapping
+[pdf](pdfs/dissertation.pdf)
+
+Mean-Variance QTL Mapping Identifies Novel QTL for Circadian Activity and Exploratory Behavior
+in Mice
+[paper](pdfs/novelQTL.pdf)
+
+QTL Mapping on a Background of Variance Heterogeneity
+[paper](pdfs/bvh.pdf)
+
+vqtl: An R Package for Mean-Variance QTL Mapping
+[paper](pdfs/vqtl.pdf)
+
+Candidate Risk Factors and Mechanisms for Tolvaptan-Induced Liver Injury Are Identified Using a Collaborative Cross Approach
+[paper](pdfs/tolvaptan.pdf)
