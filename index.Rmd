@@ -1,0 +1,32 @@
+---
+title: "Robert Corty"
+image: 'images/housestaff-headshot-cropped.png'
+links:
+  - label: github
+    url: "https://github.com/rcorty"
+  - label: twitter
+    url: "https://twitter.com/rwcorty"
+output:
+  postcards::solana
+---
+ 
+I'm an internal medicine resident at [VUMC](https://www.vumc.org).
+I will be started as a fellow in the division of rheumatology in July 2022.
+Generally, I'm interested in learning about the immune system for the benefit of my patients (and others).
+One approach that has captured my imagination recently is 'natural experiments'.
+
+## Education
+
+**UNC at Chapel Hill** | MD and PhD | 2011 - 2020
+
+**Harvard College** | AB | 2006 - 2010
+
+## Projects
+
+papers
+
+R packages
+
+talks
+
+dissertation
