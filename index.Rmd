@@ -12,13 +12,13 @@ output:
 
 ## Bio
 
-I'm an internal medicine resident at [VUMC](https://www.vumc.org).
-I will be started as a fellow in the [division of rheumatology](https://medicine.vumc.org/rheumatology-and-immunology) in July 2022.
-Generally, I'm interested in learning about normal function and diseases of immune system for the benefit of my patients (and others).
-I believe detailed study of the adaptive immune system's receptor repertoire, without losing sight of germ line genetics and environmental exposures, will provide rewarding insights.
-I've also recently become interested in identifying and analyzing natural experiments.
+I'm a rheumatology fellow at [VUMC](https://www.vumc.org).
+I'm currently focused on learning about the diagnosis and management of rheumatologic disease.
+I'm also learning about normal immune function, with the goal of better understanding how derangements lead to rheumatologic disease, and the ultimate hope of advancing our ability to diagnose and manage these conditions.
 
 ## Education
+
+**VUMC** | rheumatology fellowship | 2022 - present
 
 **VUMC** | internal medicine residency | 2021 - 2022
 
@@ -27,6 +27,9 @@ I've also recently become interested in identifying and analyzing natural experi
 **Harvard College** | AB | 2006 - 2010
 
 ## Projects
+
+How podcasts teach: A comprehensive analysis of the didactic methods of the top hundred medical podcasts
+[paper](pdfs/podcasts.pdf)
 
 <img src="images/wrench2.png" alt="wrench" height="20"/>
 familytreemakeR
