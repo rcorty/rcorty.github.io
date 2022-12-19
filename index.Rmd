@@ -8,65 +8,70 @@ links:
     url: "https://twitter.com/rwcorty"
 output:
   postcards::solana
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 ## Bio
 
-I'm a rheumatology fellow at [VUMC](https://www.vumc.org).
-I'm currently focused on learning about the diagnosis and management of rheumatologic disease.
-I'm also learning about normal immune function, with the goal of better understanding how derangements lead to rheumatologic disease, and the ultimate hope of advancing our ability to diagnose and manage these conditions.
+I'm a rheumatology fellow at [VUMC](https://www.vumc.org). I'm currently
+focused on learning about the diagnosis and management of rheumatologic
+disease. I'm also learning about normal immune function, with the goal
+of better understanding how derangements lead to rheumatologic disease,
+and the ultimate hope of advancing our ability to diagnose and manage
+these conditions.
 
 ## Education
 
-**VUMC** | rheumatology fellowship | 2022 - present
+**VUMC** \| rheumatology fellowship \| 2022 - present
 
-**VUMC** | internal medicine residency | 2021 - 2022
+**VUMC** \| internal medicine residency \| 2021 - 2022
 
-**UNC at Chapel Hill** | MD and PhD | 2011 - 2020
+**UNC at Chapel Hill** \| MD and PhD \| 2011 - 2020
 
-**Harvard College** | AB | 2006 - 2010
+**Harvard College** \| AB \| 2006 - 2010
 
 ## Projects
 
-How podcasts teach: A comprehensive analysis of the didactic methods of the top hundred medical podcasts
-[paper](pdfs/podcasts.pdf)
+How podcasts teach: A comprehensive analysis of the didactic methods of
+the top hundred medical podcasts [paper](pdfs/podcasts.pdf)
 
-<img src="images/wrench2.png" alt="wrench" height="20"/>
-familytreemakeR
+<img src="images/wrench2.png" alt="wrench" height="20"/> familytreemakeR
 [repo](https://github.com/rcorty/familytreemakeR)
 
-Antibacterial Use Is Associated with an Increased Risk of Hematologic and Gastrointestinal Adverse Events in Patients Treated with Gemcitabine for Stage IV Pancreatic Cancer
+Antibacterial Use Is Associated with an Increased Risk of Hematologic
+and Gastrointestinal Adverse Events in Patients Treated with Gemcitabine
+for Stage IV Pancreatic Cancer
 [repo](https://github.com/rcorty/gemcitabine)
 [paper](pdfs/gemcitabine.pdf)
 
 Improving Hypertension Management with Blood Pressure Rechecks
 [presentation](pdfs/Corty_QI_presentation.pdf)
 
-<img src="images/wrench2.png" alt="wrench" height="20"/>
-LookAroundYou
+<img src="images/wrench2.png" alt="wrench" height="20"/> LookAroundYou
 [app](https://rcorty.shinyapps.io/LookAroundYou/)
 [repo](https://github.com/rcorty/LookAroundYou)
 
-<img src="images/wrench2.png" alt="wrench" height="20"/>
-Combinatorial Group Testing Sims
-[app](https://rcorty.shinyapps.io/combinatorial_group_testing/)
-repo currently private due to experimental features
+<img src="images/wrench2.png" alt="wrench" height="20"/> Combinatorial
+Group Testing Sims
+[app](https://rcorty.shinyapps.io/combinatorial_group_testing/) repo
+currently private due to experimental features
 
-Identification of Candidate Risk Factor Genes for Human Idelalisib Toxicity Using a Collaborative Cross Approach
-[pdf](pdfs/idelalisib.pdf)
+Identification of Candidate Risk Factor Genes for Human Idelalisib
+Toxicity Using a Collaborative Cross Approach [pdf](pdfs/idelalisib.pdf)
 
 dissertation: Variance Heterogeneity in Genetic Mapping
 [pdf](pdfs/dissertation.pdf)
 
-Mean-Variance QTL Mapping Identifies Novel QTL for Circadian Activity and Exploratory Behavior
-in Mice
-[paper](pdfs/novelQTL.pdf)
+Mean-Variance QTL Mapping Identifies Novel QTL for Circadian Activity
+and Exploratory Behavior in Mice [paper](pdfs/novelQTL.pdf)
 
 QTL Mapping on a Background of Variance Heterogeneity
 [paper](pdfs/bvh.pdf)
 
-vqtl: An R Package for Mean-Variance QTL Mapping
-[paper](pdfs/vqtl.pdf)
+vqtl: An R Package for Mean-Variance QTL Mapping [paper](pdfs/vqtl.pdf)
 
-Candidate Risk Factors and Mechanisms for Tolvaptan-Induced Liver Injury Are Identified Using a Collaborative Cross Approach
+Candidate Risk Factors and Mechanisms for Tolvaptan-Induced Liver Injury
+Are Identified Using a Collaborative Cross Approach
 [paper](pdfs/tolvaptan.pdf)

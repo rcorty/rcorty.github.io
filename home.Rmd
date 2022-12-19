@@ -1,0 +1,11 @@
+---
+title: "Robert's Useful Web Links"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+[UpToDate](https://www-uptodate-com.ckmproxy.vumc.org/contents/search)
+
+[PubMed](https://pubmed-ncbi-nlm-nih-gov.proxy.library.vanderbilt.edu/?otool=vandylib)
+
+[GoogleScholar](https://scholar.google.com/)
