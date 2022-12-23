@@ -4,8 +4,18 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
+# Literature
+
 [UpToDate](https://www-uptodate-com.ckmproxy.vumc.org/contents/search)
 
 [PubMed](https://pubmed-ncbi-nlm-nih-gov.proxy.library.vanderbilt.edu/?otool=vandylib)
 
 [GoogleScholar](https://scholar.google.com/)
+
+[VUMC library](https://www.library.vanderbilt.edu/biomedical/)
+
+# experimental data
+
+[omics pred](https://www.omicspred.org/): an atlas of SNP effects (via ridge regression I believe) on mRNA levels, protein levels, and metabolite levels.
+
+
