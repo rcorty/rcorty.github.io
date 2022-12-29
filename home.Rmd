@@ -20,6 +20,8 @@ output: distill::distill_article
 
 [causalDB](http://www.mulinlab.org/causaldb/index.html): at atlas of snp-trait associations with an emphasis on fine-mapping to identify causal SNP's
 
+[human gene mutation database](https://www.hgmd.cf.ac.uk/)
+
 # compute resources
 
 [ACCRE virtual sessions](https://portal.accre.vanderbilt.edu/pun/sys/dashboard/batch_connect/sessions)
