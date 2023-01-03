@@ -14,6 +14,8 @@ output: distill::distill_article
 
 [VUMC library](https://www.library.vanderbilt.edu/biomedical/)
 
+[Hochberg Rheumatology](https://www-clinicalkey-com.proxy.library.vanderbilt.edu/#!/browse/book/3-s2.0-C20191000873)
+
 # experimental data
 
 [omics pred](https://www.omicspred.org/): an atlas of SNP effects (via ridge regression I believe) on mRNA levels, protein levels, and metabolite levels.
