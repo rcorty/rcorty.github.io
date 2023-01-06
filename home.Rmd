@@ -24,6 +24,8 @@ output: distill::distill_article
 
 [human gene mutation database](https://www.hgmd.cf.ac.uk/)
 
+[human cell atlas](https://data.humancellatlas.org/)
+
 # compute resources
 
 [ACCRE virtual sessions](https://portal.accre.vanderbilt.edu/pun/sys/dashboard/batch_connect/sessions)
