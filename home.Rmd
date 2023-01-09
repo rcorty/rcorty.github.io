@@ -26,6 +26,8 @@ output: distill::distill_article
 
 [human cell atlas](https://data.humancellatlas.org/)
 
+[GTEx](https://gtexportal.org/home/)
+
 # compute resources
 
 [ACCRE virtual sessions](https://portal.accre.vanderbilt.edu/pun/sys/dashboard/batch_connect/sessions)
