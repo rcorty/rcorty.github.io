@@ -28,6 +28,12 @@ output: distill::distill_article
 
 [GTEx](https://gtexportal.org/home/)
 
+# observational data
+
+[UKBB](https://bbams.ndph.ox.ac.uk/ams/researcher_home.jsp)
+
+[SD-discover](https://sd.app.vumc.org/sd-discover/)
+
 # compute resources
 
 [ACCRE virtual sessions](https://portal.accre.vanderbilt.edu/pun/sys/dashboard/batch_connect/sessions)
