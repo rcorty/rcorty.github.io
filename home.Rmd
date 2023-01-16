@@ -4,9 +4,11 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-# literature
+[paperpile](https://paperpile.com/app)
 
-[UpToDate](https://www-uptodate-com.ckmproxy.vumc.org/contents/search)
+# Peer Reviewed Papers
+
+[ConnectedPapers](https://www.connectedpapers.com/)
 
 [PubMed](https://pubmed-ncbi-nlm-nih-gov.proxy.library.vanderbilt.edu/?otool=vandylib)
 
@@ -14,26 +16,88 @@ output: distill::distill_article
 
 [VUMC library](https://www.library.vanderbilt.edu/biomedical/)
 
+[Nature Reviews: Immunology](https://www-nature-com.proxy.library.vanderbilt.edu/nri/)
+
+[Nature Reviews: Rheumatology](https://www-nature-com.proxy.library.vanderbilt.edu/nrrheum/)
+
+# Books
+
 [Hochberg Rheumatology](https://www-clinicalkey-com.proxy.library.vanderbilt.edu/#!/browse/book/3-s2.0-C20191000873)
 
-# experimental data
 
-[omics pred](https://www.omicspred.org/): an atlas of SNP effects (via ridge regression I believe) on mRNA levels, protein levels, and metabolite levels.
+# Clinical Resources
+
+[UpToDate](https://www-uptodate-com.ckmproxy.vumc.org/contents/search)
+
+
+# Online-only Resources
+
+[Immunopedia](https://www.immunopaedia.org.za/)
+
+[T cell mediated diseases per above](https://www.immunopaedia.org.za/immunology/advanced/9-t-cell-mediated-autoimmune-diseases/)
+
+[HCDM](https://hcdm.org): human cell differentiation molecules society (names CD's)
+
+
+
+# Molecular and Cellular data
+
+[omicsPred](https://www.omicspred.org/): an atlas of SNP effects (via ridge regression I believe) on mRNA levels, protein levels, and metabolite levels.
 
 [causalDB](http://www.mulinlab.org/causaldb/index.html): at atlas of snp-trait associations with an emphasis on fine-mapping to identify causal SNP's
 
 [human gene mutation database](https://www.hgmd.cf.ac.uk/)
 
+[MetaXcan](https://github.com/hakyimlab/MetaXcan)
+
+[Signaling Pathways Project](http://www.signalingpathways.org/index.jsf)
+
+[SCALLOP](http://www.scallop-consortium.com/): Systematic and Combined AnaLysis of Olink Proteins
+
+[IMGT](https://www.imgt.org/): International Immunogenetics
+
+[TCRdb (broken)](http://bioinfo.life.hust.edu.cn/TCRdb/)
+
+[TCR3d](https://tcr3d.ibbr.umd.edu/): T cell receptor structural repertoire database
+
+[OpenAIRE Explore](https://explore.openaire.eu/)
+
+[immune cell atlas](https://www.tissueimmunecellatlas.org/)
+
 [human cell atlas](https://data.humancellatlas.org/)
 
 [GTEx](https://gtexportal.org/home/)
 
-# observational data
+[IGSR](https://www.internationalgenome.org/home): The International Genome Sample Resource
+
+
+# Clinical Data
 
 [UKBB](https://bbams.ndph.ox.ac.uk/ams/researcher_home.jsp)
 
 [SD-discover](https://sd.app.vumc.org/sd-discover/)
 
+
 # compute resources
 
 [ACCRE virtual sessions](https://portal.accre.vanderbilt.edu/pun/sys/dashboard/batch_connect/sessions)
+
+[CellTypist](https://www.celltypist.org/): Automated cell type annotation for scRNA-seq datasets
+
+[NCI Analysis Tools](https://analysistools.cancer.gov/)
+
+[Robetta](https://robetta.bakerlab.org/): A protein structure prediction service from the Baker lab
+
+
+# Software
+
+[VDJmatch](https://github.com/antigenomics/vdjmatch)
+
+[muon](https://gtca.github.io/muon/): multimodal omics in Python
+
+[anvio](https://anvio.org/): An open-source, community-driven analysis and visualization platform for microbial 'omics.
+
+
+# People
+
+[VCI](https://www.vumc.org/vci/vci-faculty): Vanderbilt Center for Immunology
