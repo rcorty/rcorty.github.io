@@ -91,6 +91,8 @@ output: distill::distill_article
 
 [Robetta](https://robetta.bakerlab.org/): A protein structure prediction service from the Baker lab
 
+[GrayLab @ JHU](https://r2.graylab.jhu.edu/apps/index)
+
 
 # Software
 
