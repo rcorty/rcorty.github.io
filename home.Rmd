@@ -6,6 +6,10 @@ output: distill::distill_article
 
 [paperpile](https://paperpile.com/app)
 
+# Rheumatology learning resources
+
+[Rheum2Learn](https://www.rheumatology.org/Learning-Center/Educational-Activities/Rheum2Learn)
+
 # Peer Reviewed Papers
 
 [ConnectedPapers](https://www.connectedpapers.com/)
