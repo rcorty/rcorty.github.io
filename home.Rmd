@@ -46,6 +46,8 @@ output: distill::distill_article
 
 # Molecular and Cellular data
 
+[HBFP](https://bmbl.bmi.osumc.edu/HBFP/index.php/Home/Index/index.html): human body fluid proteome
+
 [omicsPred](https://www.omicspred.org/): an atlas of SNP effects (via ridge regression I believe) on mRNA levels, protein levels, and metabolite levels.
 
 [causalDB](http://www.mulinlab.org/causaldb/index.html): at atlas of snp-trait associations with an emphasis on fine-mapping to identify causal SNP's
