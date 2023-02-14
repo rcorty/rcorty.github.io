@@ -46,6 +46,8 @@ output: distill::distill_article
 
 # Molecular and Cellular data
 
+[genebass](https://app.genebass.org/): single-variant based, whole-exome association statistics on 4,529 traits and 394,841 patients from UKBB.
+
 [HBFP](https://bmbl.bmi.osumc.edu/HBFP/index.php/Home/Index/index.html): human body fluid proteome
 
 [omicsPred](https://www.omicspred.org/): an atlas of SNP effects (via ridge regression I believe) on mRNA levels, protein levels, and metabolite levels.
@@ -85,6 +87,8 @@ output: distill::distill_article
 [UKBB](https://bbams.ndph.ox.ac.uk/ams/researcher_home.jsp)
 
 [SD-discover](https://sd.app.vumc.org/sd-discover/)
+
+[VUMC clinical data resources](https://www.vumc.org/vclic/data-resources)
 
 
 # compute resources
