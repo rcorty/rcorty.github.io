@@ -6,6 +6,7 @@ output: distill::distill_article
 
 [paperpile](https://paperpile.com/app)
 
+
 # Rheumatology learning resources
 
 [Rheum2Learn](https://www.rheumatology.org/Learning-Center/Educational-Activities/Rheum2Learn)
@@ -46,7 +47,11 @@ output: distill::distill_article
 
 # Molecular and Cellular data
 
+[UCSD genome browser](https://genome.ucsc.edu/) many tools, LiftOver switches SNP's between assemblies
+
 [genebass](https://app.genebass.org/): single-variant based, whole-exome association statistics on 4,529 traits and 394,841 patients from UKBB.
+
+[AZphewas](https://azphewas.com/): exome-sequencing based gene-trait associations from UKBB
 
 [HBFP](https://bmbl.bmi.osumc.edu/HBFP/index.php/Home/Index/index.html): human body fluid proteome
 
