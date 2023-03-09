@@ -47,6 +47,10 @@ output: distill::distill_article
 
 # Molecular and Cellular data
 
+[Compartments](https://compartments.jensenlab.org/Downloads): subcellular localization database
+
+[Antigen Explorer](https://antigen.princeton.edu/)Uses expression data from 33 tumor types and 34 normal tissues to explore antigen combinations
+
 [UCSD genome browser](https://genome.ucsc.edu/) many tools, LiftOver switches SNP's between assemblies
 
 [genebass](https://app.genebass.org/): single-variant based, whole-exome association statistics on 4,529 traits and 394,841 patients from UKBB.
@@ -79,7 +83,9 @@ output: distill::distill_article
 
 [human cell atlas](https://data.humancellatlas.org/)
 
-[GTEx](https://gtexportal.org/home/)
+[GTEx](https://gtexportal.org/home/): GTEx home
+
+[6GTEx - single cell resources](https://gtexportal.org/home/singleCellOverviewPage)
 
 [IGSR](https://www.internationalgenome.org/home): The International Genome Sample Resource
 
