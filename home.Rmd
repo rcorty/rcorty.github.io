@@ -47,6 +47,10 @@ output: distill::distill_article
 
 # Molecular and Cellular data
 
+[bioGPS](http://biogps.org/#goto=welcome): a "bioGPS" - maybe good for looking up genes?
+
+[a ubiquitin database](http://uucd.biocuckoo.org/): todo - explain more what this is
+
 [Compartments](https://compartments.jensenlab.org/Downloads): subcellular localization database
 
 [Antigen Explorer](https://antigen.princeton.edu/)Uses expression data from 33 tumor types and 34 normal tissues to explore antigen combinations
