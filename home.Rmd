@@ -67,8 +67,6 @@ output: distill::distill_article
 
 [causalDB](http://www.mulinlab.org/causaldb/index.html): at atlas of snp-trait associations with an emphasis on fine-mapping to identify causal SNP's
 
-[human gene mutation database](https://www.hgmd.cf.ac.uk/)
-
 [MetaXcan](https://github.com/hakyimlab/MetaXcan)
 
 [Signaling Pathways Project](http://www.signalingpathways.org/index.jsf)
@@ -95,6 +93,13 @@ output: distill::distill_article
 
 [ImmunexUT](https://www.immunexut.org/top): Dynamic landscape of immune cell-specific gene regulation in immune-mediated diseases
 
+# Population Genomics
+
+GnomAD
+
+[human gene mutation database](https://www.hgmd.cf.ac.uk/)
+
+Clinvar
 
 
 # Clinical Data
@@ -104,6 +109,8 @@ output: distill::distill_article
 [SD-discover](https://sd.app.vumc.org/sd-discover/)
 
 [VUMC clinical data resources](https://www.vumc.org/vclic/data-resources)
+
+
 
 
 # compute resources
