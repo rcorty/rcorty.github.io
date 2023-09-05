@@ -47,6 +47,12 @@ output: distill::distill_article
 
 # Molecular and Cellular data
 
+[enrichr-KG](https://maayanlab.cloud/enrichr-kg): gene set enrichment analysis
+
+[stringDB](https://string-db.org/): protein-protein interaction network based on multiple data sources (including text mining)
+
+[WebGestalt](https://www.webgestalt.org/) pathway analysis
+
 [bioGPS](http://biogps.org/#goto=welcome): a "bioGPS" - maybe good for looking up genes?
 
 [a ubiquitin database](http://uucd.biocuckoo.org/): todo - explain more what this is
