@@ -5,7 +5,7 @@ links:
   - label: github
     url: "https://github.com/rcorty"
   - label: twitter
-    url: "https://twitter.com/rwcorty"
+    url: "https://twitter.com/rheumrob"
 output:
   postcards::solana
 editor_options: 
@@ -15,12 +15,7 @@ editor_options:
 
 ## Bio
 
-I'm a rheumatology fellow at [VUMC](https://www.vumc.org). I'm currently
-focused on learning about the diagnosis and management of rheumatologic
-disease. I'm also learning about normal immune function, with the goal
-of better understanding how derangements lead to rheumatologic disease,
-and the hope of advancing our ability to diagnose and manage
-these conditions.
+I'm a rheumatology fellow at [VUMC](https://www.vumc.org), learning about the diagnosis and management of systemic auto-immune disease. In the research setting, I'm examining the clinical consequences of somatic genetic variation with the goal of improving our understanding of the etiology of idiopathic auto-immune and auto-inflammatory diseases.
 
 ## Education
 
@@ -37,8 +32,8 @@ these conditions.
 How podcasts teach: A comprehensive analysis of the didactic methods of
 the top hundred medical podcasts [paper](pdfs/podcasts.pdf)
 
-<img src="images/wrench2.png" alt="wrench" height="20"/> familytreemakeR
-[repo](https://github.com/rcorty/familytreemakeR)
+<!-- <img src="images/wrench2.png" alt="wrench" height="20"/> familytreemakeR -->
+<!-- [repo](https://github.com/rcorty/familytreemakeR) -->
 
 Antibacterial Use Is Associated with an Increased Risk of Hematologic
 and Gastrointestinal Adverse Events in Patients Treated with Gemcitabine
