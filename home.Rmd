@@ -47,6 +47,15 @@ output: distill::distill_article
 
 # Molecular and Cellular data
 
+TODO
+[twitter thread of resources](https://twitter.com/tangming2005/status/1666437518907133954?t=AVmFFDJNjvUyccTAdJtCkA)
+
+[GWAS atlas](https://atlas.ctglab.nl)
+
+[UKBB proteomics](https://metabolomips.org/ukbbpgwas/)
+
+[ABseq](https://apps.embl.de/abseqapp/): A resource of gene and surface protein expression in human bone marrow
+
 [CRUSTY](https://crusty.humanitas.it/): ClusteRing UnsuperviSed meThods for high dimensional cYtometry data
 
 [tabula sapiens](https://tabula-sapiens-portal.ds.czbiohub.org/): first-draft human cell atlas of nearly 500,000 cells from 24 organs of 15 normal human subjects.
