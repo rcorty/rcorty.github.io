@@ -6,6 +6,7 @@ output: distill::distill_article
 
 [paperpile](https://paperpile.com/app)
 
+[The registry of Hereditary Auto-inflammatory Disorders Mutations](https://infevers.umai-montpellier.fr/web/index.php)
 
 # Rheumatology learning resources
 
