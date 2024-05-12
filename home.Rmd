@@ -8,6 +8,8 @@ output: distill::distill_article
 
 [The registry of Hereditary Auto-inflammatory Disorders Mutations](https://infevers.umai-montpellier.fr/web/index.php)
 
+[Genetic immunology advisor](https://www.geniadb.net/app/home/)
+
 # Rheumatology learning resources
 
 [Rheum2Learn](https://www.rheumatology.org/Learning-Center/Educational-Activities/Rheum2Learn)
