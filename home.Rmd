@@ -10,6 +10,8 @@ output: distill::distill_article
 
 [Genetic immunology advisor](https://www.geniadb.net/app/home/)
 
+[PheWEB japan](https://pheweb.jp/)
+
 # Rheumatology learning resources
 
 [Rheum2Learn](https://www.rheumatology.org/Learning-Center/Educational-Activities/Rheum2Learn)
