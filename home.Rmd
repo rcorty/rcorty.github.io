@@ -12,6 +12,8 @@ output: distill::distill_article
 
 [PheWEB japan](https://pheweb.jp/)
 
+[Regeneron million exomes](https://rgc-research.regeneron.com/me/home)
+
 # Rheumatology learning resources
 
 [Rheum2Learn](https://www.rheumatology.org/Learning-Center/Educational-Activities/Rheum2Learn)
