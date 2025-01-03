@@ -8,20 +8,15 @@ output: distill::distill_article
 
 [The registry of Hereditary Auto-inflammatory Disorders Mutations](https://infevers.umai-montpellier.fr/web/index.php)
 
+[](https://autoimmune.org/disease-information/)
+
 [Genetic immunology advisor](https://www.geniadb.net/app/home/)
 
 [PheWEB japan](https://pheweb.jp/)
 
-[Regeneron million exomes](https://rgc-research.regeneron.com/me/home)
-
 # Rheumatology learning resources
 
-[CARE questions](https://learn.rheumatology.org/totara/dashboard/index.php?id=1)
-
-[Image library](https://images.rheumatology.org/bp/#/assets)
-
 [Rheum2Learn](https://www.rheumatology.org/Learning-Center/Educational-Activities/Rheum2Learn)
-
 
 # Peer Reviewed Papers
 
