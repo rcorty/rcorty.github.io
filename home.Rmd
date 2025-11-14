@@ -14,6 +14,8 @@ output: distill::distill_article
 
 [PheWEB japan](https://pheweb.jp/)
 
+[predictomes](https://predictomes.org/)
+
 # Rheumatology learning resources
 
 [Rheum2Learn](https://www.rheumatology.org/Learning-Center/Educational-Activities/Rheum2Learn)
