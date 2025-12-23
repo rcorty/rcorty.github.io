@@ -14,7 +14,7 @@ output: distill::distill_article
 
 [PheWEB japan](https://pheweb.jp/)
 
-[predictomes](https://predictomes.org/)
+[Duke office of PS development](https://medschool.duke.edu/research/research-support/research-support-offices/office-physician-scientist-development)
 
 # Rheumatology learning resources
 
